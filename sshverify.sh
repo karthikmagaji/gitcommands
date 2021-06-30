@@ -1,0 +1,1 @@
+echo "passing via ssh"
